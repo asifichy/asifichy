@@ -11,23 +11,18 @@ My Research Interest:
 - Cloud Computing
 - E-waste
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ## Skills 
 
-### Languages  
+##### Languages  
 C, C++, Java, Python, PHP
 
-Database
+##### Database
 Oracle, SQL, MongoDB
-, Html, CSS,  
+
+##### Website Structure 
+Html, CSS,  
 
 
 
