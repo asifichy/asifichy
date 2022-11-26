@@ -18,14 +18,20 @@ My Research Interest:
 
 ##### Languages
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_vscode_icon_130084.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffile-type-vscode%2F130084&tbnid=W65pIvSV4mQlfM&vet=12ahUKEwi3nPvYhMz7AhXhxaACHcTjB-0QMygDegUIARDgAQ..i&docid=yFbMJG4Hnp_16M&w=512&h=512&q=vs%20code%20icons&ved=2ahUKEwi3nPvYhMz7AhXhxaACHcTjB-0QMygDegUIARDgAQ)" style="padding-right:10px;" />]
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+[<img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />]
+[webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]           
             
             
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    
+            
             
             
             
