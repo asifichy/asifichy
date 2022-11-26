@@ -12,6 +12,7 @@ My Research Interest:
 - E-waste
 
 <h2 align="left">Connect with me:</h2>
+
 ---
 
 <p align="left">
@@ -21,6 +22,7 @@ My Research Interest:
 </p>
 
 <h2 align="left">Skills</h2>
+
 ---
 
 ##### Languages
