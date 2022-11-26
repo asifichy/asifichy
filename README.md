@@ -1,9 +1,15 @@
-## Hello World 👋
+## Hello World 👋 I'm Md. Asif Imtiyaj Chowdhury 👋
 
+Programmer | Undergraduate Student, CSE
 
-**asifichy/asifichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To be a part of a dynamic, progressive organization that will provide me the
+opportunity to grow professionally while utilizing my skills and experience in the
+area to add value to the organization. Along with being a software engineer and
+working with all of my passion, my life's goal is to be a good person.
 
-Here are some ideas to get you started:
+My Research Interest:
+- Cloud Computing
+- E-waste
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +19,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Skills 
+
+### Languages  
+C, C++, Java, Python, PHP
+
+Database
+Oracle, SQL, MongoDB
+, Html, CSS,  
+
+
 
