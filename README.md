@@ -12,17 +12,19 @@ My Research Interest:
 - E-waste
 
 
-
 ## Skills 
 
-##### Languages  
+##### [Languages ](https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/programming%20languages) 
 C, C++, Java, Python, PHP
 
-##### Database
+##### [Database](https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/databases)
 Oracle, SQL, MongoDB
 
 ##### Website Structure 
 Html, CSS,  
 
+##### https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides
+
+##### https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/text%20editors
 
 
