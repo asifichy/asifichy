@@ -13,8 +13,6 @@ My Research Interest:
 
 <h2 align="left">Connect with me:</h2>
 
----
-
 <p align="left">
   <a href="https://www.facebook.com/asif.niloy.714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy chowdhury" height="30" width="40" /></a>
   <a href="https://twitter.com/HelloChowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloy chowdhury" height="30" width="40" /></a>
@@ -22,8 +20,6 @@ My Research Interest:
 </p>
 
 <h2 align="left">Skills</h2>
-
----
 
 ##### Languages
 
