@@ -11,20 +11,32 @@ My Research Interest:
 - Cloud Computing
 - E-waste
 
+###Connect with me: 
+
 
 ## Skills 
 
-##### [Languages ](https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/programming%20languages) 
-C, C++, Java, Python, PHP
+##### Languages
 
-##### [Database](https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/databases)
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />          
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+                    
+          
+          
+
+##### Databases
 Oracle, SQL, MongoDB
 
 ##### Website Structure 
 Html, CSS,  
 
-##### https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides
 
-##### https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/text%20editors
 
 
