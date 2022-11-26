@@ -18,6 +18,9 @@ My Research Interest:
 
 ##### Languages
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_vscode_icon_130084.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffile-type-vscode%2F130084&tbnid=W65pIvSV4mQlfM&vet=12ahUKEwi3nPvYhMz7AhXhxaACHcTjB-0QMygDegUIARDgAQ..i&docid=yFbMJG4Hnp_16M&w=512&h=512&q=vs%20code%20icons&ved=2ahUKEwi3nPvYhMz7AhXhxaACHcTjB-0QMygDegUIARDgAQ)" style="padding-right:10px;" />]
+
+
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
             
             
