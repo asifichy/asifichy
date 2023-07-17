@@ -12,7 +12,7 @@ My Research Interest:
 - E-waste
 - IoT based semi-automatic lake cleaner
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me: </h2>
 
 <p align="left">
   <a href="https://www.facebook.com/asif.niloy.714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy chowdhury" height="30" width="40" /></a>
@@ -38,7 +38,7 @@ My Research Interest:
   <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
   <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-<br>
+
 <h4 align="left">Website Structures/h4>
   <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
