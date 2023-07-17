@@ -10,7 +10,7 @@ working with all of my passion, my life's goal is to be a good person.
 My Research Interest:
 - Cloud Computing
 - E-waste
-- 
+- IoT based semi-automatic lake cleaner
 
 <h2 align="left">Connect with me:</h2>
 
@@ -32,14 +32,14 @@ My Research Interest:
   <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
   <img align="left" alt="php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
 
-
+<br>
 <h4 align="left">Databases</h4>
   <img align="left" alt="oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
   <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
   <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-
-<h4 align="left">Website Structures</h4>
+<br>
+<h4 align="left">Website Structures/h4>
   <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 </p>
