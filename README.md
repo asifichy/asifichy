@@ -1,4 +1,5 @@
-<h1 align="center">Hello World ❤ I'm Md. Asif Imtiyaj Chowdhury ☺ </h1>
+<h1 align="center">Hello World 👋🏼 👨🏼‍💻 </h1>
+<img src="https://raw.githubusercontent.com/asifichy/asifichy/master/Black Minimal Motivation Quote LinkedIn Banner.png" alt="banner of Md. Asif Imtiyaj Chowdhury"/>
 <h3 align="center">I'm ... ... ... </h3>
 
 - A Software Developer, Mobile Application Developer, Front-end Developer, Software Quality Tester and Assurance
