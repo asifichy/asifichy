@@ -1,6 +1,8 @@
-## Hello World 👋 I'm Md. Asif Imtiyaj Chowdhury 👋
+<h1 align="center>Hello World 👋 I'm Md. Asif Imtiyaj Chowdhury 👋</h1>
+<h3 align="center></h3>
 
-Programmer | Undergraduate Student, CSE
+- A Software Developer, Mobile Application Developer, Front-end Developer, Software Quality Tester and Assurance
+- Just Finished Last Semester From East West University 😄
 
 To be a part of a dynamic, progressive organization that will provide me the
 opportunity to grow professionally while utilizing my skills and experience in the
