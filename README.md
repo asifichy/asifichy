@@ -12,14 +12,22 @@ working with all of my passion, my life's goal is to be a good person.
 My Research Interest:
 - Cloud Computing
 - E-waste
-- IoT based semi-automatic lake cleaner
+- IoT
+
+On Going Research: 
+- IoT Based Semi-automated Lake surface Cleaning Robot
+- E-waste Management and Policy Regulations
 
 <h2 align="left">Connect with me: </h2>
-
 <p align="left">
-  <a href="https://www.facebook.com/asif.niloy.714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy chowdhury" height="30" width="40" /></a>
-  <a href="https://twitter.com/HelloChowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloy chowdhury" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/asif.niloy.714/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy chowdhury" height="30" width="40" /></a>
+  <a href="https://twitter.com/HelloChowdhury" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloy chowdhury" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/md-asif-imtiyaj-chowdhury-7945a11b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="niloy chowdhury" height="30" width="40" /></a>
+  <a href="mailto:asifniloy45@gmail.com" target="blank">
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw02WL0hA81k4caSxSwwa3tI&ust=1695140512185000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjrw9LItIEDFQAAAAAdAAAAABAD" alt="niloy chowdhury gmail" width="40" height="30"/>
+  </a>
 </p>
 
 
