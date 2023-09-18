@@ -65,7 +65,7 @@ On Going Research:
     <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/33158051/103467186-7b6a8900-4d1a-11eb-9907-491064bc8458.png" alt="sqlight" width="40" height="40"/>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+    <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="android" width="40" height="40"/> </a>
   <a href="" target="blank">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>   
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
