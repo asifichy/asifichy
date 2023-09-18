@@ -24,9 +24,10 @@ On Going Research:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy chowdhury" height="30" width="40" /></a>
   <a href="https://twitter.com/HelloChowdhury" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloy chowdhury" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/md-asif-imtiyaj-chowdhury-7945a11b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="niloy chowdhury" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/md-asif-imtiyaj-chowdhury-7945a11b3/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="niloy chowdhury" height="30" width="40" /></a>
   <a href="mailto:asifniloy45@gmail.com" target="blank">
-    <img align="center" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw02WL0hA81k4caSxSwwa3tI&ust=1695140512185000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjrw9LItIEDFQAAAAAdAAAAABAD](https://icons8.com/icon/P7UIlhbpWzZm/gmail-new)](https://github.com/simple-icons/simple-icons/blob/e235b23351ed2c0c370893f3c0935091467ba5f5/icons/gmail.svg)" alt="niloy chowdhury gmail" width="40" height="30"/>
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="niloy chowdhury gmail" width="40" height="30"/>
   </a>
 </p>
 
