@@ -84,6 +84,8 @@ On Going Research:
     <img src="https://user-images.githubusercontent.com/136815194/255505529-a57a85ba-e2dd-4036-85b6-7e1532391627.png" alt="arduino" width="40" height="40"/> </a>    
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifichy&theme=dracula&langs_count=6&layout=compact&hide=css">
+
 
 <h3 align="left">Support:</h3>
 <p>
