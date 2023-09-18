@@ -84,7 +84,7 @@ On Going Research:
     <img src="https://user-images.githubusercontent.com/136815194/255505529-a57a85ba-e2dd-4036-85b6-7e1532391627.png" alt="arduino" width="40" height="40"/> </a>    
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifichy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=css">
+<img src="![asifichy's Stats](https://github-readme-stats.vercel.app/api?username=asifichy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)">
 
 
 <h3 align="left">Support:</h3>
