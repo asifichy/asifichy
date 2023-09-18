@@ -85,7 +85,7 @@ On Going Research:
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifichy&theme=vue-dark&langs_count=6&layout=compact&hide=css">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifichy&theme=tokyonight&langs_count=6&layout=compact&hide=css">
 </div>
 
 
