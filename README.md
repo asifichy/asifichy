@@ -79,7 +79,9 @@ On Going Research:
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/selenium.svg" alt="selenium" width="40" height="40"/> </a>
+    <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/136815194/255505529-a57a85ba-e2dd-4036-85b6-7e1532391627.png" alt="arduino" width="40" height="40"/> </a>    
 </p>
 
 
@@ -89,7 +91,7 @@ On Going Research:
 </p>
 <br><br>
 <p align="Right"> 
-  <img src="https://komarev.com/ghpvc/?username=Mi-Thun&label=Profile%20views&color=0e75b6&style=flat" alt="Mi-Thun" /> 
+  <img src="https://komarev.com/ghpvc/?username=Mi-Thun&label=Profile%20views&color=0e75b6&style=flat" alt="niloy" /> 
 </p>
 
 
