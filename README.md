@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/asifichy/asifichy/master/Black Minimal Motivation Quote LinkedIn Banner.png" alt="banner of Md. Asif Imtiyaj Chowdhury"/>
 <h3 align="center">I'm ... ... ... </h3>
 
-- A Software Developer, Mobile Application Developer, Front-end Developer, Software Quality and Assurance Tester
+- A Software Engineer (Mobile Application Developer, Front-end Developer, Software Quality and Assurance Tester)
 - Just Finished Last Semester From East West University 😄
 
 To be a part of a dynamic, progressive organization that will provide me the
