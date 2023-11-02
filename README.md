@@ -11,9 +11,9 @@ area to add value to the organization. Along with being a software engineer and
 working with all of my passion, my life's goal is to be a good person.
 
 My Research Interest:
-- Cloud Computing
-- E-waste
 - IoT
+- Cloud Computing
+- E-waste 
 
 On Going Research: 
 - IoT Based Semi-automated Lake surface Cleaning Robot
