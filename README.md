@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/asifichy/asifichy/master/Black Minimal Motivation Quote LinkedIn Banner.png" alt="banner of Md. Asif Imtiyaj Chowdhury"/>
 <h3 align="center">I'm ... ... ... </h3>
 
-- A Software Engineer specialized in DevOps, Cloud Solution, Cloud Service, Web Developer, Mobile Application Developer, Software Quality and Assurance Tester
+- A Software Engineer specialized in devops, cloud solution, cloud service, web development, mobile application developer, software quality and assurance testing
 - Graduated From East West University in Computer Science and Engineering 😄
 
 To be a part of a dynamic, progressive organization that will provide me the
