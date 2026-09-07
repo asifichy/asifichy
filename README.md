@@ -1,119 +1,244 @@
-<h1>Hello World 👋🏼 👨🏼‍💻 </h1>
-<img src="https://raw.githubusercontent.com/asifichy/asifichy/master/Black Minimal Motivation Quote LinkedIn Banner.png" alt="banner of Md. Asif Imtiyaj Chowdhury"/>
-<h3 align="center">I'm ... ... ... </h3>
-
-- A Software Engineer specialized in devops, cloud solution, cloud service, web development, mobile application developer, software quality and assurance testing
-- Graduated From East West University in Computer Science and Engineering 😄
-
-To be a part of a dynamic, progressive organization that will provide me the
-opportunity to grow professionally while utilizing my skills and experience in the
-area to add value to the organization. Along with being a software engineer and
-working with all of my passion, my life's goal is to be a good person.
-
-My Research Interest:
-- IoT
-- Cloud Computing
-- E-waste 
-
-On Going Research: 
-- IoT Based Semi-automated Lake surface Cleaning Robot
-- E-waste Management and Policy Regulations
-- DDOS Attack
-
-<h2 align="left">Connect with me: </h2>
-<p align="left">
-  <a href="https://www.facebook.com/asif.niloy.714/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy chowdhury" height="30" width="40" /></a>
-  <a href="https://twitter.com/HelloChowdhury" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloy chowdhury" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/md-asif-imtiyaj-chowdhury-7945a11b3/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="niloy chowdhury" height="30" width="40" /></a>
-  <a href="mailto:asifimtiyajchowdhury@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="niloy chowdhury gmail" width="40" height="30"/></a>
-  <a href="mailto:asifniloy45@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="niloy chowdhury gmail" width="40" height="30"/></a>
-</p>
-
-<h3 align="left">Languages and Tools: </h3>
-<p align="left">  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>   
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left"></h3>
-<p>
-  <a href="https://huaweicloud.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="huawei" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left"></h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/33158051/103467186-7b6a8900-4d1a-11eb-9907-491064bc8458.png" alt="sqlight" width="40" height="40"/>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="android" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>   
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>   
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/136815194/255505529-a57a85ba-e2dd-4036-85b6-7e1532391627.png" alt="arduino" width="40" height="40"/> </a>    
-</p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifichy&theme=tokyonight&langs_count=6&layout=compact&hide=css">
+  <img src="https://raw.githubusercontent.com/asifichy/asifichy/master/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="Md. Asif Imtiyaj Chowdhury" width="100%"/>
 </div>
 
+<h1 align="center">Md. Asif Imtiyaj Chowdhury</h1>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=Cloud+Solution+Architect+%40+Huawei+Technologies;Multi-Cloud+%7C+AWS+%C2%B7+GCP+%C2%B7+Huawei+Cloud+%C2%B7+Azure;DevSecOps+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+GitOps;I+design+infrastructure+that+doesn't+page+at+3AM" alt="Typing SVG"/></a>
+</div>
 
-<h3 align="left">Support:</h3>
+<div align="center">
+  <a href="https://asifimtiyajchowdhuryportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/md-asif-imtiyaj-chowdhury-7945a11b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:asifimtiyajchowdhury@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/HelloChowdhury"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <img src="https://komarev.com/ghpvc/?username=asifichy&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-1F2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💼_Open_to-Cloud_Architecture_%7C_DevSecOps-1F2937?style=flat-square"/>
+</div>
+
+---
+
+## 👨🏼‍💻 About
+
+Cloud and DevSecOps Solutions Architect designing **multi-cloud platforms across AWS, GCP, Azure, and Huawei Cloud** — from tender-stage HLD/LLD through hardened, observable production infrastructure.
+
+```yaml
+role:        Cloud Solution Architect @ Huawei Technologies
+focus:       Multi-cloud architecture · Infrastructure security hardening · Automated governance
+building:    Enterprise migration blueprints, GitOps pipelines, Kubernetes security baselines
+strengths:   [ Terraform, Kubernetes, CI/CD security gates, Observability, FinOps ]
+education:   B.Sc. Computer Science & Engineering — East West University, 2023
+philosophy:  Ship secure by default. Automate the boring. Measure everything.
+```
+
+**Research interests:** IoT · Cloud Computing · E-waste Management & Policy · DDoS Mitigation
+
+---
+
+## 📊 Impact at a Glance
+
+<div align="center">
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| **99.99%** | **30%** | **40%** | **50%** |
+| production uptime<br/>on AWS EKS | cloud spend<br/>reduced | faster<br/>CI/CD pipelines | lower MTTD<br/>& MTTR |
+
+</div>
+
+---
+
+## 🚀 Experience
+
+<table>
+<tr><th align="left">Role</th><th align="left">Organization</th><th align="left">Period</th></tr>
+<tr><td><b>Cloud Solution Architect</b></td><td>Huawei Technologies</td><td>Dec 2025 – Present</td></tr>
+<tr><td><b>Lead DevOps Engineer</b></td><td>Flagship Digital Ltd</td><td>Jan 2025 – Dec 2025</td></tr>
+<tr><td><b>DevOps &amp; Infrastructure Consultant</b></td><td>SPG Trust <i>(Remote)</i></td><td>May 2025 – Nov 2025</td></tr>
+<tr><td><b>Cloud Service Engineer</b></td><td>Huawei Technologies</td><td>Mar 2024 – Dec 2024</td></tr>
+</table>
+
+<details>
+<summary><b>Selected work — click to expand</b></summary>
+
+<br/>
+
+**☁️ Enterprise Cloud Architecture**
+- Architected the cloud migration solution for **Grameenphone**, Bangladesh's leading telecom operator — workload assessment, cutover sequencing, and network/security segmentation for legacy application migration.
+- Designed the accompanying **DevOps enablement solution**: CI/CD architecture, containerization strategy, and observability tooling for operational readiness.
+- Benchmarked private cloud platforms against **VMware, OpenStack, Nutanix, and Oracle** for greenfield and brownfield validation.
+- Produced HLDs, LLDs, Technical Proposals, and Statements of Compliance for enterprise tenders; evaluated RFP/RFI/RFQ compliance frameworks to close architectural gaps.
+
+**⚙️ Platform Engineering**
+- Built production AWS infrastructure on **EKS, DocumentDB, and ElastiCache** — 99.99% uptime with a 30% cut in cloud spend.
+- Declarative IaC with **Terraform modules and Ansible playbooks**; 35% higher API throughput via container networking and database pool tuning.
+- Multi-stage **BuildKit** Docker builds with integrated image scanning — 40% shorter pipelines, with vulnerability gates before production promotion.
+- Provisioned **GKE from scratch** (VPC networking, node pools, IAM/RBAC, Ingress) and shipped a production payment microservice with secrets management, autoscaling, and healthcheck-based rollouts.
+- Automated **GitHub Actions + ArgoCD** workflows for zero-downtime canary deployments on AWS EKS.
+
+**🔐 DevSecOps**
+- Hardened Kubernetes posture: **RBAC, Network Policies, and Secrets Management**, with **Trivy**, **Falco**, and OWASP dependency checks wired into CI/CD.
+- Managed SSL/TLS certificate lifecycle, Nginx-based WAF rules, and firewall policies securing ingress across production microservices.
+- Resolved **Redis cache stampede** vulnerabilities and session sync failures — 45% lower backend API failure rate, session-hijacking vectors closed.
+- Enforced least-privilege AWS IAM, container image hardening, and network segmentation policies.
+
+**📈 Observability & Reliability**
+- Unified stack with **Grafana, Prometheus, Loki, CloudWatch, and Middleware.io**; SLO-driven alerting cut MTTD 50%.
+- Centralized monitoring with anomaly detection cut MTTR 50%.
+- Authored DR runbooks, incident response plans, and architecture blueprints.
+
+**🤝 Engineering Leadership**
+- Mentored 6 engineers on cloud-native patterns, GitOps workflows, and trunk-based development.
+- Partnered with Huawei HQ platform engineers to debug and fix **Go-based Terraform provider** resource allocation bugs, unblocking critical provisioning automation.
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Cloud &amp; Infrastructure</b></summary>
+<br/>
 <p>
-  <a href="https://www.buymeacoffee.com/AsifImtiyajChowdhury"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AsifImtiyajChowdhury"/></a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
-<br>
-<br>
-<br>
-<p align="Right"> 
-  <img src="https://komarev.com/ghpvc/?username=asifichy&label=Profile%20views&color=0e75b6&style=flat" alt="niloy" /> 
-</p>
+</details>
 
+<details open>
+<summary><b>CI/CD &amp; GitOps</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>DevSecOps &amp; Observability</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TLS%2FSSL-720E9E?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary><b>Languages, Web &amp; Databases</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+</details>
+
+---
+
+## 📦 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧱 3-Tier Microservice Deployment
+Dockerized **React + Node.js + Golang + PostgreSQL** stack with service isolation and container networking.
+
+`Docker` `Kubernetes` `Golang` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Terraform — Huawei Cloud Provisioning
+Automated multi-resource provisioning, including upstream **Go provider bug fixes** contributed back to HQ.
+
+`Terraform` `Go` `Huawei Cloud` `IaC`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 GitOps CI/CD Pipeline
+End-to-end deployment automation — build, scan, promote, and sync with **Jenkins + ArgoCD**.
+
+`Jenkins` `ArgoCD` `GitOps` `Kubernetes`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 IoT Lake Surface Cleaning Robot
+Semi-automated surface cleaning robot — ongoing research in IoT and environmental engineering.
+
+`IoT` `Embedded` `Research`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asifichy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=asifichy&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifichy&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&hide=css,html"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's build something resilient
+
+Open to conversations on **cloud architecture, platform engineering, and DevSecOps**.
+
+<a href="https://asifimtiyajchowdhuryportfolio.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="mailto:asifimtiyajchowdhury@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/AsifImtiyajChowdhury"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+
+</div>
