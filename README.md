@@ -58,8 +58,8 @@ philosophy:  Ship secure by default. Automate the boring. Measure everything.
 <table>
 <tr><th align="left">Role</th><th align="left">Organization</th><th align="left">Period</th></tr>
 <tr><td><b>Cloud Solution Architect</b></td><td>Huawei Technologies</td><td>Dec 2025 – Present</td></tr>
-<tr><td><b>Lead DevOps Engineer</b></td><td>Flagship Digital Ltd</td><td>Jan 2025 – Dec 2025</td></tr>
 <tr><td><b>DevSecOps &amp; Platform Engineering Consultant</b></td><td>TransGlobe Pay <i>(Remote · Part-time)</i></td><td>Jul 2026 – Present</td></tr>
+<tr><td><b>Lead DevOps Engineer</b></td><td>Flagship Digital Ltd</td><td>Jan 2025 – Dec 2025</td></tr>
 <tr><td><b>DevOps &amp; Infrastructure Consultant</b></td><td>SPG Trust <i>(Remote)</i></td><td>May 2025 – Nov 2025</td></tr>
 <tr><td><b>Cloud Service Engineer</b></td><td>Huawei Technologies</td><td>Mar 2024 – Dec 2024</td></tr>
 </table>
