@@ -5,7 +5,7 @@
 <h1 align="center">Md. Asif Imtiyaj Chowdhury</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=Cloud+Solution+Architect+%40+Huawei+Technologies;Multi-Cloud+%7C+AWS+%C2%B7+GCP+%C2%B7+Huawei+Cloud+%C2%B7+Azure;DevSecOps+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+GitOps;I+design+infrastructure+that+doesn't+page+at+3AM" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=Cloud+Solution+Architect+%40+Huawei+Technologies;Multi-Cloud+%7C+AWS+%C2%B7+GCP+%C2%B7+Huawei+Cloud+%C2%B7;DevOps+%E2%80%A2+DevSecOps+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+GitOps;I+design+infrastructure+that+doesn't+page+at+3AM" alt="Typing SVG"/></a>
 </div>
 
 <div align="center">
