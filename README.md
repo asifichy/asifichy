@@ -25,7 +25,7 @@
 
 ## 👨🏼‍💻 About
 
-Cloud and DevSecOps Solutions Architect designing **multi-cloud platforms across AWS, GCP, Azure, and Huawei Cloud** — from tender-stage HLD/LLD through hardened, observable production infrastructure.
+Cloud and DevSecOps Solutions Architect designing **multi-cloud platforms across AWS, GCP, and Huawei Cloud** — from tender-stage HLD/LLD through hardened, observable production infrastructure.
 
 ```yaml
 role:        Cloud Solution Architect @ Huawei Technologies
